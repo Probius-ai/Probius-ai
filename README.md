@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing right now
+- 🔭 I’m currently working on basic computer vision
 - 🌱 I’m currently learning basic stuff with Python
 <!--
 - 👯 I’m looking to collaborate on ...
